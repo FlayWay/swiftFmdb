@@ -10,7 +10,7 @@ import UIKit
 import FMDB
 
 /// 最大存储时间
-private let maxDBCacheTime = -5 * 24 * 60
+private let maxDBCacheTime = -5 * 24 * 60 * 60
 
 class LJSqltManager {
     
